@@ -1,2 +1,2 @@
-# django-blog
-Blog application using Django 2.2 LTS
+# Blogging Website
+Blogging web application using Django 2.2 LTS
